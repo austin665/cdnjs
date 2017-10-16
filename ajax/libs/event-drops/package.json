@@ -11,15 +11,6 @@
     "animation",
     "canvas"
   ],
-  "npmName": "event-drops",
-  "npmFileMap": [
-    {
-      "basePath": "src",
-      "files": [
-        "**/*"
-      ]
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/marmelab/EventDrops"
